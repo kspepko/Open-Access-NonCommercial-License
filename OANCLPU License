@@ -1,0 +1,125 @@
+Open Access NonCommercial License with Limited Public Use (OANCLPU License)
+
+By exercising the Licensed Rights (defined below), You accept and agree to be bound by the terms and conditions of this Open Access NonCommercial License with Limited Public Use ("OANCLPU License"). To the extent this License may be interpreted as a contract, You are granted the Licensed Rights in consideration of Your acceptance of these terms and conditions, and the Licensor grants You such rights in consideration of benefits the Licensor receives from making the Licensed Material available under these terms and conditions.
+Section 1 -- Definitions.
+
+The definitions in this Section shall apply to this License:
+
+a. Adapted Material means material subject to Copyright and Similar Rights that is derived from or based upon the Licensed Material and in which the Licensed Material is translated, altered, arranged, transformed, or otherwise modified in a manner requiring permission under the Copyright and Similar Rights held by the Licensor.
+
+b. Adapter's License means the license You apply to Your Copyright and Similar Rights in Your contributions to Adapted Material in accordance with the terms and conditions of this OANCLPU License.
+
+c. Copyright and Similar Rights means copyright and/or similar rights closely related to copyright, including, without limitation, performance, broadcast, sound recording, and Sui Generis Database Rights, without regard to how the rights are labeled or categorized. For purposes of this OANCLPU License, the rights specified in Section 2(b)(1)-(2) are not Copyright and Similar Rights.
+
+d. Effective Technological Measures means those measures that, in the absence of proper authority, may not be circumvented under laws fulfilling obligations under Article 11 of the WIPO Copyright Treaty adopted on December 20, 1996, and/or similar international agreements.
+
+e. Exceptions and Limitations means fair use, fair dealing, and/or any other exception or limitation to Copyright and Similar Rights that applies to Your use of the Licensed Material.
+
+f. License Elements means the license attributes listed in the name of a public license. The License Elements of this OANCLPU License are Attribution, NonCommercial, Open Access, and Limited Public Use.
+
+g. Licensed Material means the artistic or literary work, database, code repository, script, web application, or other material to which the Licensor applied this OANCLPU License.
+
+h. Licensed Rights means the rights granted to You subject to the terms and conditions of this OANCLPU License, which are limited to all Copyright and Similar Rights that apply to Your use of the Licensed Material and that the Licensor has authority to license.
+
+i. Licensor means the individual(s) or entity(ies) granting rights under this OANCLPU License.
+
+j. NonCommercial means not primarily intended for or directed towards commercial advantage or monetary compensation. For purposes of this OANCLPU License, the exchange of the Licensed Material for other material subject to Copyright and Similar Rights by digital file-sharing or similar means is NonCommercial provided there is no payment of monetary compensation in connection with the exchange.
+
+k. Share means to provide material to the public by any means or process that requires permission under the Licensed Rights, such as reproduction, public display, public performance, distribution, dissemination, communication, or importation, and to make material available to the public, including in ways that members of the public may access the material from a place and at a time individually chosen by them.
+
+l. Sui Generis Database Rights means rights other than copyright resulting from Directive 96/9/EC of the European Parliament and of the Council of 11 March 1996 on the legal protection of databases, as amended and/or succeeded, as well as other essentially equivalent rights anywhere in the world.
+
+m. You means the individual or entity exercising the Licensed Rights under this OANCLPU License. Your has a corresponding meaning.
+
+n. Public Use Limitations means that the Licensed Material may not be used, displayed, or shared in a public context involving more than ten (10) individuals, except with explicit permission provided through a separate contractual agreement.
+Section 2 -- Scope.
+
+a. License Grant.
+
+sql
+
+   1. Subject to the terms and conditions of this OANCLPU License, the Licensor hereby grants You a worldwide, royalty-free, non-sublicensable, non-exclusive, irrevocable license to exercise the Licensed Rights in the Licensed Material to:
+
+        a. Reproduce and Share the Licensed Material, in whole or in part, for NonCommercial purposes only; and
+
+        b. Produce, reproduce, and Share Adapted Material for NonCommercial purposes only.
+
+        c. Use the Licensed Material in a non-public setting, ensuring that no more than ten (10) individuals are exposed to or interact with the Licensed Material simultaneously. Any use beyond this scope requires explicit permission from the Licensor, obtainable through the process outlined in Section 5.
+
+   2. **Exceptions and Limitations.** Where Exceptions and Limitations apply to Your use, this OANCLPU License does not apply, and You do not need to comply with its terms and conditions.
+
+   3. **Term.** The term of this OANCLPU License is specified in Section 6(a).
+
+   4. **Media and formats; technical modifications allowed.** The Licensor authorizes You to exercise the Licensed Rights in all media and formats, whether now known or hereafter created, and to make technical modifications necessary to do so. The Licensor waives and/or agrees not to assert any right or authority to forbid You from making technical modifications necessary to exercise the Licensed Rights, including technical modifications necessary to circumvent Effective Technological Measures.
+
+   5. **Downstream recipients.**
+
+        a. **Offer from the Licensor -- Licensed Material.** Every recipient of the Licensed Material automatically receives an offer from the Licensor to exercise the Licensed Rights under the terms and conditions of this OANCLPU License.
+
+        b. **Additional offer from the Licensor -- Adapted Material.** Every recipient of Adapted Material from You automatically receives an offer from the Licensor to exercise the Licensed Rights in the Adapted Material under the conditions of the Adapter's License You apply.
+
+        c. **No downstream restrictions.** You may not offer or impose any additional or different terms or conditions on, or apply any Effective Technological Measures to, the Licensed Material if doing so restricts exercise of the Licensed Rights by any recipient of the Licensed Material.
+
+   6. **No endorsement.** Nothing in this OANCLPU License constitutes or may be construed as permission to assert or imply that You are, or that Your use of the Licensed Material is, connected with, or sponsored, endorsed, or granted official status by, the Licensor or others designated to receive attribution as provided in Section 3(a)(1)(A)(i).
+
+b. Other rights.
+
+sql
+
+   1. **Moral rights** are not licensed under this OANCLPU License, nor are publicity, privacy, and/or other similar personality rights. However, to the extent possible, the Licensor waives and/or agrees not to assert any such rights held by the Licensor to the limited extent necessary to allow You to exercise the Licensed Rights.
+
+   2. **Patent and trademark rights** are not licensed under this OANCLPU License.
+
+   3. **Waiver of royalties.** The Licensor waives any right to collect royalties from You for the exercise of the Licensed Rights. In all other cases, the Licensor reserves the right to collect royalties, including when the Licensed Material is used other than for NonCommercial purposes.
+
+Section 3 -- License Conditions.
+
+a. Attribution.
+
+css
+
+   1. If You Share the Licensed Material (including in modified form), You must:
+
+        a. Retain the following if it is supplied by the Licensor with the Licensed Material:
+
+             i. Identification of the creator(s) and others designated to receive attribution;
+
+            ii. A copyright notice;
+
+           iii. A notice that refers to this OANCLPU License;
+
+            iv. A notice that refers to the disclaimer of warranties;
+
+             v. A URI or hyperlink to the Licensed Material to the extent reasonably practicable.
+
+        b. Indicate if You modified the Licensed Material and retain an indication of any previous modifications.
+
+        c. Indicate that the Licensed Material is licensed under this OANCLPU License.
+
+Section 4 -- Transfer and Exceptions to Public Use Restrictions.
+
+a. General Rule on Public Use. You may not use the Licensed Material in public environments involving more than ten (10) individuals unless explicitly authorized by the Licensor under the terms of a separate contract, as outlined in this Section.
+
+b. Contract for Exceptions. The Licensor may, at its sole discretion, allow exceptions to the public use limitations through a written contract that may or may not involve financial compensation. All contracts must be detailed in a file named KEYLICENSE.md, specifying the user, the duration, and the scope of the granted exceptions.
+
+c. License Types. The contract may establish the following types of access:
+
+sql
+
+   1. **Temporary Access.** The user is granted temporary access to the Licensed Material for a set period of time, which cannot be revoked by the Licensor until the expiration of the term.
+
+   2. **Revocable Temporary Access.** The user is granted temporary access, but the Licensor may revoke access at any time.
+
+   3. **Revocable Permanent Access.** The user is granted permanent access, but the Licensor may revoke access at any time.
+
+d. Languages of Contract. Any contractual agreements or exceptions must be documented in English, Russian, and Spanish.
+
+e. Duration. Each exception must include a start date and an expiration date.
+Section 5 -- Repository Storage Requirements.
+
+a. The OANCLPU License and Licensed Material must be stored together in the same repository when hosted on platforms such as GitHub. This includes ensuring that the KEYLICENSE.md file is present in the same repository.
+Section 6 -- Disclaimers and Liability.
+
+a. No Warranty. The Licensed Material is licensed “as-is,” and the Licensor makes no representations or warranties of any kind concerning the Licensed Material, whether express, implied, statutory, or other. This includes, without limitation, warranties of title, merchantability, fitness for a particular purpose, non-infringement, absence of latent or other defects, accuracy, or the presence or absence of errors, whether or not known or discoverable.
+
+b. License Instability. This License is in draft form and may be subject to revisions. As such, the Licensor cannot be held responsible for any issues arising from the Licensed Material or its use.
