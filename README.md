@@ -1,7 +1,7 @@
 # Open Access NonCommercial License (OANC License)
 Лицензия созданная kspepko, официальный файл, а также все официальные модификаций и расщепения от kspepko в будущем и другие лецензии!
 
-## Version (today)
+## Version top (today)
 
 1st OANC
 
